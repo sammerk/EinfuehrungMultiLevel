@@ -48,3 +48,4 @@ STAR_data <- read_sav("data/STAR.sav")
 #                    Welche sind aufgrund (theoretische Überlegungen) sicher verletzt?
 #                    Erkennt ihr diese Verletzung auch empirisch in dem ihr 
 #                       `plot(mein_mod_aus_AA1)` betrachtet?
+
